@@ -11,6 +11,7 @@
 
 a { color: #ff5e3b; /* colore link */
 
+   text-decoration: none;
 } 
 
 .overlay {
